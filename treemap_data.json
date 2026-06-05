@@ -1,0 +1,426 @@
+{
+  "name": "AAOH Sentiment analysis",
+  "children": [
+    {
+      "name": "military and service",
+      "prob": 0.6130749583244324,
+      "sentiment": "negative",
+      "children": [
+        {
+          "name": "So when things final cooled down one guy\u2014American, our troops\u2014he was going out just to be a listening post at the edge of the wood line, because we had our dead troops there.",
+          "prob": 0.5144187211990356,
+          "sentiment": "negative"
+        },
+        {
+          "name": "So when it finally cooled down they was not firing back at us, and we assumed that either they were gone or they were dead, the enemy.",
+          "prob": 0.7594524025917053,
+          "sentiment": "negative"
+        },
+        {
+          "name": "They don\u2019t have this kind of information in books.",
+          "prob": 0.49140939116477966,
+          "sentiment": "negative"
+        },
+        {
+          "name": "We never had any violence because we did not cross the line.",
+          "prob": 0.5840570330619812,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "And they have very little in the books about the Vietnam War.",
+          "prob": 0.7502240538597107,
+          "sentiment": "negative"
+        },
+        {
+          "name": "This company had got hit pretty hard by the enemy and they didn\u2019t have really enough to maintain so they rebuilt the fourth by adding more troops out there.",
+          "prob": 0.6837788224220276,
+          "sentiment": "negative"
+        },
+        {
+          "name": "So we had our helicopters call in and we had to load up our dead.",
+          "prob": 0.5639655590057373,
+          "sentiment": "negative"
+        },
+        {
+          "name": "We always have gotten our dead out; not under fire.",
+          "prob": 0.706536591053009,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "You fight the Vietcong which can use booby traps and all that kind of stuff.",
+          "prob": 0.6301975846290588,
+          "sentiment": "negative"
+        },
+        {
+          "name": "We didn\u2019t have to worry about booby traps, pungent pits, and North Vietnamese regiments.",
+          "prob": 0.7112550735473633,
+          "sentiment": "negative"
+        },
+        {
+          "name": "But anyway they had killed these Vietnamese, and normally that we don\u2019t bury the enemy, but it was an area that the United States used; a convoy going through.",
+          "prob": 0.7437680959701538,
+          "sentiment": "negative"
+        },
+        {
+          "name": "And the dead was there for about a week.",
+          "prob": 0.5011950731277466,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "And sometimes when we would go out on AOP, which is a listening post, we might go out that night like phone in, go out from the main compound in case the enemy was trying to move at night, but we never did experienced the enemy moving at night.",
+          "prob": 0.8768391609191895,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "And then later on they brought some ammunition in and it kinda cooled down then.",
+          "prob": 0.83554607629776,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "I was just praying to myself that I hope all the enemy down there is dead and nobody\u2019s gonna shoot me while\u2014which they were dead, dead or either they had backed off.",
+          "prob": 0.5677976012229919,
+          "sentiment": "negative"
+        },
+        {
+          "name": "The country today can be argued is much different in terms of how people look at, and respond to social issues than they did in the late 1960s.",
+          "prob": 0.7231478691101074,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "The late 1960s there was the Vietnam War, there was the movement, there was King, there was Johnson not running for election.",
+          "prob": 0.6861841082572937,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "And I ask that because many people I speak to from your generation tell me that something is missing today that used to exist.",
+          "prob": 0.5368191003799438,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "And I understand that you\u2019re talking about segregation, but I was trying to get it spoken to in your own words.",
+          "prob": 0.7641828060150146,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "That\u2019s talking about in the [19]50s.",
+          "prob": 0.8879818916320801,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "protest on social issues where that doesn\u2019t happen today.",
+          "prob": 0.618826687335968,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "There\u2019s the internet, people are satisfied with petitions and just sit and watch, and music\u2014just like it was before, but a little bit different.",
+          "prob": 0.545788586139679,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "The last time that we spoke you were very forthcoming in your discussion of your participation in the Vietnam War, and also your experiences with the Veteran\u2019s Administration following.",
+          "prob": 0.625618577003479,
+          "sentiment": "positive"
+        },
+        {
+          "name": "So I went and I talked, and I guess I don\u2019t want to tell this story before I get to talking about Vietnam unless you want me to talk into it now, but I had to tell them how I lived in Vietnam.",
+          "prob": 0.7196233868598938,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tW:\tAlright we\u2019re returning to our interview with Mr. Cornelius Clayton on September 9th, 2011 after a brief interlude, and we are ready to move from Vietnam, and talk about what happened when you got home; your career opportunities and your continuing education.",
+          "prob": 0.8526987433433533,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "But I was able, and I will continue as long as I\u2019m able if somebody ask me to speak, and tell what went down, because a lot of time what you see on TV is not what happened over there.",
+          "prob": 0.6467503309249878,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "I\u2019ll leave it to you to tell us what happened when you got back.",
+          "prob": 0.8419394493103027,
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "name": "family and home",
+      "prob": 0.8873437643051147,
+      "sentiment": "neutral",
+      "children": [
+        {
+          "name": "\tW:\tOkay now about your parent\u2019s parents, if we could take it back a generation, who were your mother\u2019s parents?",
+          "prob": 0.9237054586410522,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tC:\tOkay I didn\u2019t have the opportunity of meeting my dad\u2019s dad, but my grandfather which was my mother\u2019s father I was raised up around him.",
+          "prob": 0.7701274156570435,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tC:\tThey all deceased, but my dad was Cornelius Clayton Sr. and my mother was Ruby Lee Clayton which is deceased.",
+          "prob": 0.789933443069458,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tW:\tDo you have any further memories of the parents of your grandparents or any other information that you could share about the extended family?",
+          "prob": 0.9316083788871765,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "[Laughter] I didn\u2019t really wanna know about parents, family and marriage.",
+          "prob": 0.5316824316978455,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tW:\tWho were your parents Mr. Clayton?",
+          "prob": 0.9201005101203918,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Do you recall your parents\u2019 birthdays?",
+          "prob": 0.9204840064048767,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tW:\tAnd your dad?",
+          "prob": 0.8985462784767151,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tC:\tI can\u2019t remember my dad\u2019s.",
+          "prob": 0.6044780611991882,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tC:\tOkay, Maddie Magali was my mother\u2019s mother, which was my grandmother.",
+          "prob": 0.9068475365638733,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "I don\u2019t remember my father\u2019s mother.",
+          "prob": 0.5025587677955627,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tW:\tAnd how about the grandfathers on each side?",
+          "prob": 0.9163289070129395,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Your dad\u2019s dad and your mom\u2019s dad?",
+          "prob": 0.9341661930084229,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tW:\tYour grandparent\u2019s parents on each side?",
+          "prob": 0.9380263090133667,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tC:\tI got married 1992 my present wife.",
+          "prob": 0.8897987604141235,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Because we got married right out of high school.",
+          "prob": 0.7974547147750854,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tW:\tWas there a large period of time between the end of your first marriage and the start of your second marriage, or did you get married again right away?",
+          "prob": 0.907558023929596,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "C:\tMy mother was December the 7th, 1922.",
+          "prob": 0.9194754362106323,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Okay, are you married?",
+          "prob": 0.9208160042762756,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "I am married.",
+          "prob": 0.7308948040008545,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "And what is your wife\u2019s name?",
+          "prob": 0.8666991591453552,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "I have three kids\u2014one by first marriage; Cassandra Clayton and Cornelius",
+          "prob": 0.8839522004127502,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "and one offspring by ex-girlfriend that\u2019s thirty-three.",
+          "prob": 0.8424045443534851,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "First wife or second wife?",
+          "prob": 0.9078252911567688,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Well the first wife was in high school during the high school time.",
+          "prob": 0.9096949100494385,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "We sit around, and we talk and we laugh, and I\u2019d take pictures, and I\u2019d video tape it.",
+          "prob": 0.7300904989242554,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Some sitting in the seat, and some are sitting around the floor.",
+          "prob": 0.9416341185569763,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "We could go to the kitchen inside and order our hamburger and take it home, or take it wherever and eat it.",
+          "prob": 0.8978821635246277,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "As for them I don\u2019t really care for the chicken and so we have a good time.",
+          "prob": 0.42026403546333313,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "I think you said",
+          "prob": 0.8652245998382568,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "They like to do the bonfire and sit around.",
+          "prob": 0.7415792346000671,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "We have a good time.",
+          "prob": 0.9689851403236389,
+          "sentiment": "positive"
+        },
+        {
+          "name": "clothes out and some hot chow.",
+          "prob": 0.7725855112075806,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Frederick Clayton, which he is in the military; my daughter lives in Gainesville;",
+          "prob": 0.9199347496032715,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "My brother lives out of Atlanta, and my sister resides in Gainesville.",
+          "prob": 0.9543627500534058,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "She lives in Orlando.",
+          "prob": 0.9486029744148254,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Mr. Clayton, would you please give your full name?",
+          "prob": 0.9378690123558044,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Evangeline Grimes and my brother\u2019s name is Ernest Vincent Clayton.",
+          "prob": 0.9258203506469727,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Her name is Thelma Clayton.",
+          "prob": 0.9149071574211121,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Her name is Detra Clayton.",
+          "prob": 0.943879246711731,
+          "sentiment": "neutral"
+        }
+      ]
+    },
+    {
+      "name": "career and work and money",
+      "prob": 0.8468905091285706,
+      "sentiment": "neutral",
+      "children": [
+        {
+          "name": "\tW:\tHow long did he operate his business?",
+          "prob": 0.9222761392593384,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tW:\tEverybody had problems with Lincoln.",
+          "prob": 0.5634998679161072,
+          "sentiment": "negative"
+        },
+        {
+          "name": "But he owned his own business and he did well.",
+          "prob": 0.739271879196167,
+          "sentiment": "positive"
+        },
+        {
+          "name": "\tC:\tHe operated his business.",
+          "prob": 0.875608503818512,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tC:\tLincoln had some big boys, too.",
+          "prob": 0.6569368243217468,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tC:\tHis name was Jimmy Cooper.",
+          "prob": 0.9152225852012634,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "\tC:\tHis name was DC.",
+          "prob": 0.8882961869239807,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "My uncle, Ernest Magali Jr. had already learned the well drilling business, so he carried the business on.",
+          "prob": 0.8398869037628174,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "And my uncle\u2014he learned those trades from him about mechanics when he was coming up as a teenager.",
+          "prob": 0.8720315098762512,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "Except my grandfather, he was a well driller and he owned his own business, that\u2019s different from the stores.",
+          "prob": 0.8058258295059204,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "grandfather was a great mechanic.",
+          "prob": 0.8885764479637146,
+          "sentiment": "positive"
+        },
+        {
+          "name": "Also my grandfather back in the [19]20s, we had a\u2014that was before my time\u2014a car dealership, which was selling model marlay malty, whatever.",
+          "prob": 0.8793849945068359,
+          "sentiment": "neutral"
+        },
+        {
+          "name": "And my grandfather he was the mechanic.",
+          "prob": 0.7606870532035828,
+          "sentiment": "neutral"
+        }
+      ]
+    }
+  ]
+}
