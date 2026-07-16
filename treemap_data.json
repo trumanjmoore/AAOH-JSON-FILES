@@ -16,162 +16,189 @@
       "children": [
         {
           "name": "So when things final cooled down one guy\u2014American, our troops\u2014he was going out just to be a listening post at the edge of the wood line, because we had our dead troops there.",
+          "context": "So, while we was firing up a bunch of ammunition into the woods where the enemy was supposed to be, and the artillery dropping around us pretty close but not on us, the enemy knows the closer they are to us, the safer they are from that artillery. So when things final cooled down one guy\u2014American, our troops\u2014he was going out just to be a listening post at the edge of the wood line, because we had our dead troops there. But then he got ambushed.",
           "prob": -0.9921734081581235,
           "sentiment": "NEGATIVE",
           "emotion": "fear"
         },
         {
           "name": "So when it finally cooled down they was not firing back at us, and we assumed that either they were gone or they were dead, the enemy.",
+          "context": "So we start firing our guns and throwing grenades until finally killed him. So when it finally cooled down they was not firing back at us, and we assumed that either they were gone or they were dead, the enemy. So we had our helicopters call in and we had to load up our dead.",
           "prob": -0.9740794878453016,
           "sentiment": "NEGATIVE",
           "emotion": "anger"
         },
         {
           "name": "They don\u2019t have this kind of information in books.",
+          "context": "The looked at me almost like I was a ghost, because they couldn\u2019t believe. They don\u2019t have this kind of information in books. They couldn\u2019t believe what they were hearing and I\u2019m pretty sure they\u2019ve seen\u2014I did good today\u2014my emotion was not as good then, but I got it together.",
           "prob": 0.9931092134211212,
           "sentiment": "POSITIVE",
           "emotion": "surprise"
         },
         {
           "name": "We never had any violence because we did not cross the line.",
+          "context": "And then something else might have happened. We never had any violence because we did not cross the line. \tW:\tWhen you say, \u201cCross the line\u201d could you explain?",
           "prob": 0.9913337347097695,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "And they have very little in the books about the Vietnam War.",
+          "context": "The lady Ms. Milton, Liz Milton, she teach history, and they were studying about the Vietnam War. And they have very little in the books about the Vietnam War. So I went and I talked, and I guess I don\u2019t want to tell this story before I get to talking about Vietnam unless you want me to talk into it now, but I had to tell them how I lived in Vietnam.",
           "prob": 0.980390653014183,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "This company had got hit pretty hard by the enemy and they didn\u2019t have really enough to maintain so they rebuilt the fourth by adding more troops out there.",
+          "context": "And after we was there for a while and got our jungle fatigues, and jungle boots, and all that kind of good stuff, and our weapon\u2014which I had an M-16\u2014they flew us out in the field and we joined another company. This company had got hit pretty hard by the enemy and they didn\u2019t have really enough to maintain so they rebuilt the fourth by adding more troops out there. \tW:\tSo you were the replacements, but you became a part of that group?",
           "prob": 0.9852296924218535,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "So we had our helicopters call in and we had to load up our dead.",
+          "context": "So when it finally cooled down they was not firing back at us, and we assumed that either they were gone or they were dead, the enemy. So we had our helicopters call in and we had to load up our dead. We always have gotten our dead out; not under fire.",
           "prob": -0.9944201887119561,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "We always have gotten our dead out; not under fire.",
+          "context": "So we had our helicopters call in and we had to load up our dead. We always have gotten our dead out; not under fire. The helicopters come in and land, two of us get our buddy in.",
           "prob": 0.9785215361043811,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "You fight the Vietcong which can use booby traps and all that kind of stuff.",
+          "context": "Another incident is somebody killed a bunch of\u2014there\u2019s two types of people you fight. You fight the Vietcong which can use booby traps and all that kind of stuff. We didn\u2019t have to worry about booby traps, pungent pits, and North Vietnamese regiments.",
           "prob": 0.9678356684744358,
           "sentiment": "POSITIVE",
           "emotion": "disgust"
         },
         {
           "name": "We didn\u2019t have to worry about booby traps, pungent pits, and North Vietnamese regiments.",
+          "context": "You fight the Vietcong which can use booby traps and all that kind of stuff. We didn\u2019t have to worry about booby traps, pungent pits, and North Vietnamese regiments. Now I was out in the jungle.",
           "prob": 0.9901167941279709,
           "sentiment": "POSITIVE",
           "emotion": "disgust"
         },
         {
           "name": "But anyway they had killed these Vietnamese, and normally that we don\u2019t bury the enemy, but it was an area that the United States used; a convoy going through.",
+          "context": "They got lightweight machine guns, they got motors, and they\u2019re expert motormans. But anyway they had killed these Vietnamese, and normally that we don\u2019t bury the enemy, but it was an area that the United States used; a convoy going through. And the dead was there for about a week.",
           "prob": -0.9502088483422995,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "And the dead was there for about a week.",
+          "context": "But anyway they had killed these Vietnamese, and normally that we don\u2019t bury the enemy, but it was an area that the United States used; a convoy going through. And the dead was there for about a week. Kinda like on the side of the road and in the woodland.",
           "prob": -0.9902083538472652,
           "sentiment": "NEGATIVE",
           "emotion": "disgust"
         },
         {
           "name": "And sometimes when we would go out on AOP, which is a listening post, we might go out that night like phone in, go out from the main compound in case the enemy was trying to move at night, but we never did experienced the enemy moving at night.",
+          "context": "We had air mattresses. And sometimes when we would go out on AOP, which is a listening post, we might go out that night like phone in, go out from the main compound in case the enemy was trying to move at night, but we never did experienced the enemy moving at night. \tW:\tYou think they were there though?",
           "prob": 0.9614484459161758,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "And then later on they brought some ammunition in and it kinda cooled down then.",
+          "context": "We lost quite a few. And then later on they brought some ammunition in and it kinda cooled down then. Well before it cooled down it had got so bad that they called\u2014they wouldn\u2019t let the gunships come in which is the helicopter with rockets and machine gun fire.",
           "prob": -0.9970097047043964,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "I was just praying to myself that I hope all the enemy down there is dead and nobody\u2019s gonna shoot me while\u2014which they were dead, dead or either they had backed off.",
+          "context": "\tC:\tIt was a good sign of peace. I was just praying to myself that I hope all the enemy down there is dead and nobody\u2019s gonna shoot me while\u2014which they were dead, dead or either they had backed off. So I was just so glad to get out.",
           "prob": 0.9956953111104667,
           "sentiment": "POSITIVE",
           "emotion": "joy"
         },
         {
           "name": "The country today can be argued is much different in terms of how people look at, and respond to social issues than they did in the late 1960s.",
+          "context": "\tW:\tLet me ask you one more Vietnam question as it relates to the students. The country today can be argued is much different in terms of how people look at, and respond to social issues than they did in the late 1960s. The late 1960s there was the Vietnam War, there was the movement, there was King, there was Johnson not running for election.",
           "prob": 0.9829897526651621,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "The late 1960s there was the Vietnam War, there was the movement, there was King, there was Johnson not running for election.",
+          "context": "The country today can be argued is much different in terms of how people look at, and respond to social issues than they did in the late 1960s. The late 1960s there was the Vietnam War, there was the movement, there was King, there was Johnson not running for election. People would go into the streets and March and",
           "prob": 0.9913316429592669,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "And I ask that because many people I speak to from your generation tell me that something is missing today that used to exist.",
+          "context": "I want to know in your opinion what is a difference or differences that you can point out between the type of education that you received at Central Academy, and what young people are receiving today? And I ask that because many people I speak to from your generation tell me that something is missing today that used to exist. I want to know if you might comment on that.",
           "prob": 0.9915468040853739,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "And I understand that you\u2019re talking about segregation, but I was trying to get it spoken to in your own words.",
+          "context": "\tW:\tCould you talk about that difference? And I understand that you\u2019re talking about segregation, but I was trying to get it spoken to in your own words. What was it like living in a segregated environment by law that you had to be separate?",
           "prob": 0.97253602091223,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "That\u2019s talking about in the [19]50s.",
+          "context": "used to go out into the woods and cut down trees, and bring some wood back. That\u2019s talking about in the [19]50s. When I went on to probably the sixth grade the block schools, which they had built, they were sixth, seventh and eighth.",
           "prob": 0.9787553464993834,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "protest on social issues where that doesn\u2019t happen today.",
+          "context": "People would go into the streets and March and protest on social issues where that doesn\u2019t happen today. There\u2019s the internet, people are satisfied with petitions and just sit and watch, and music\u2014just like it was before, but a little bit different.",
           "prob": 0.9938069588970393,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "There\u2019s the internet, people are satisfied with petitions and just sit and watch, and music\u2014just like it was before, but a little bit different.",
+          "context": "protest on social issues where that doesn\u2019t happen today. There\u2019s the internet, people are satisfied with petitions and just sit and watch, and music\u2014just like it was before, but a little bit different. Do you think that that difference has something to do with the reaction that you got from the students, or do you think there\u2019s something else at play here?",
           "prob": 0.9592722021043301,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "The last time that we spoke you were very forthcoming in your discussion of your participation in the Vietnam War, and also your experiences with the Veteran\u2019s Administration following.",
+          "context": "I\u2019d like to ask you about your education. The last time that we spoke you were very forthcoming in your discussion of your participation in the Vietnam War, and also your experiences with the Veteran\u2019s Administration following. And from that we were able to produce a podcast which we shared with you and appreciate your feedback and participation on that.",
           "prob": 0.9974076816579327,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "So I went and I talked, and I guess I don\u2019t want to tell this story before I get to talking about Vietnam unless you want me to talk into it now, but I had to tell them how I lived in Vietnam.",
+          "context": "And they have very little in the books about the Vietnam War. So I went and I talked, and I guess I don\u2019t want to tell this story before I get to talking about Vietnam unless you want me to talk into it now, but I had to tell them how I lived in Vietnam. If you want me to go through this now or you wanna hold it later?",
           "prob": -0.9872633647173643,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "\tW:\tAlright we\u2019re returning to our interview with Mr. Cornelius Clayton on September 9th, 2011 after a brief interlude, and we are ready to move from Vietnam, and talk about what happened when you got home; your career opportunities and your continuing education.",
+          "context": "They couldn\u2019t cross over. \tW:\tAlright we\u2019re returning to our interview with Mr. Cornelius Clayton on September 9th, 2011 after a brief interlude, and we are ready to move from Vietnam, and talk about what happened when you got home; your career opportunities and your continuing education. I\u2019ll leave it to you to tell us what happened when you got back.",
           "prob": -0.9827402271330357,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "But I was able, and I will continue as long as I\u2019m able if somebody ask me to speak, and tell what went down, because a lot of time what you see on TV is not what happened over there.",
+          "context": "But they could see that I must have had a very bad traumatic experience. But I was able, and I will continue as long as I\u2019m able if somebody ask me to speak, and tell what went down, because a lot of time what you see on TV is not what happened over there. A lot of stuff you see is just a dramatization and they hype it up.",
           "prob": 0.9779409701004624,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "I\u2019ll leave it to you to tell us what happened when you got back.",
+          "context": "\tW:\tAlright we\u2019re returning to our interview with Mr. Cornelius Clayton on September 9th, 2011 after a brief interlude, and we are ready to move from Vietnam, and talk about what happened when you got home; your career opportunities and your continuing education. I\u2019ll leave it to you to tell us what happened when you got back. \tC:\tOkay.",
           "prob": 0.9860769384540617,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
@@ -193,240 +220,280 @@
       "children": [
         {
           "name": "\tW:\tOkay now about your parent\u2019s parents, if we could take it back a generation, who were your mother\u2019s parents?",
+          "context": "And because she was born on Pearl Harbor Day, I can remember that. \tW:\tOkay now about your parent\u2019s parents, if we could take it back a generation, who were your mother\u2019s parents? \tC:\tOkay, Maddie Magali was my mother\u2019s mother, which was my grandmother.",
           "prob": 0.9927606985438615,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "\tC:\tOkay I didn\u2019t have the opportunity of meeting my dad\u2019s dad, but my grandfather which was my mother\u2019s father I was raised up around him.",
+          "context": "Your dad\u2019s dad and your mom\u2019s dad? \tC:\tOkay I didn\u2019t have the opportunity of meeting my dad\u2019s dad, but my grandfather which was my mother\u2019s father I was raised up around him. \tW:\tOkay and what was his name?",
           "prob": 0.9619454834610224,
           "sentiment": "POSITIVE",
           "emotion": "surprise"
         },
         {
           "name": "\tC:\tThey all deceased, but my dad was Cornelius Clayton Sr. and my mother was Ruby Lee Clayton which is deceased.",
+          "context": "\tW:\tWho were your parents Mr. Clayton? \tC:\tThey all deceased, but my dad was Cornelius Clayton Sr. and my mother was Ruby Lee Clayton which is deceased. Both of them are deceased.",
           "prob": -0.9733594795688987,
           "sentiment": "NEGATIVE",
           "emotion": "surprise"
         },
         {
           "name": "\tW:\tDo you have any further memories of the parents of your grandparents or any other information that you could share about the extended family?",
+          "context": "More of the Whites than the Blacks. \tW:\tDo you have any further memories of the parents of your grandparents or any other information that you could share about the extended family? \tC:\tSay that one more time.",
           "prob": -0.955780379474163,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "[Laughter] I didn\u2019t really wanna know about parents, family and marriage.",
+          "context": "I had family and marriage, and it was only because the instructor who taught humanities was a great teacher. [Laughter] I didn\u2019t really wanna know about parents, family and marriage. And I had anthropology!",
           "prob": -0.9887122749350965,
           "sentiment": "NEGATIVE",
           "emotion": "joy"
         },
         {
           "name": "\tW:\tWho were your parents Mr. Clayton?",
+          "context": "C:\tSince 1949. \tW:\tWho were your parents Mr. Clayton? \tC:\tThey all deceased, but my dad was Cornelius Clayton Sr. and my mother was Ruby Lee Clayton which is deceased.",
           "prob": 0.9821713883429766,
           "sentiment": "POSITIVE",
           "emotion": "surprise"
         },
         {
           "name": "Do you recall your parents\u2019 birthdays?",
+          "context": "\tW:\tI\u2019m very sorry for your loss. Do you recall your parents\u2019 birthdays? C:\tMy mother was December the 7th, 1922.",
           "prob": -0.9869580902159214,
           "sentiment": "NEGATIVE",
           "emotion": "sadness"
         },
         {
           "name": "\tW:\tAnd your dad?",
+          "context": "C:\tMy mother was December the 7th, 1922. \tW:\tAnd your dad? \tC:\tI can\u2019t remember my dad\u2019s.",
           "prob": -0.9867018791846931,
           "sentiment": "NEGATIVE",
           "emotion": "surprise"
         },
         {
           "name": "\tC:\tI can\u2019t remember my dad\u2019s.",
+          "context": "\tW:\tAnd your dad? \tC:\tI can\u2019t remember my dad\u2019s. And because she was born on Pearl Harbor Day, I can remember that.",
           "prob": -0.9903816767036915,
           "sentiment": "NEGATIVE",
           "emotion": "surprise"
         },
         {
           "name": "\tC:\tOkay, Maddie Magali was my mother\u2019s mother, which was my grandmother.",
+          "context": "\tW:\tOkay now about your parent\u2019s parents, if we could take it back a generation, who were your mother\u2019s parents? \tC:\tOkay, Maddie Magali was my mother\u2019s mother, which was my grandmother. I don\u2019t remember my father\u2019s mother.",
           "prob": -0.9837269904091954,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "I don\u2019t remember my father\u2019s mother.",
+          "context": "\tC:\tOkay, Maddie Magali was my mother\u2019s mother, which was my grandmother. I don\u2019t remember my father\u2019s mother. \tW:\tAnd how about the grandfathers on each side?",
           "prob": -0.9891390153206885,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "\tW:\tAnd how about the grandfathers on each side?",
+          "context": "I don\u2019t remember my father\u2019s mother. \tW:\tAnd how about the grandfathers on each side? Your dad\u2019s dad and your mom\u2019s dad?",
           "prob": -0.9954005761537701,
           "sentiment": "NEGATIVE",
           "emotion": "surprise"
         },
         {
           "name": "Your dad\u2019s dad and your mom\u2019s dad?",
+          "context": "\tW:\tAnd how about the grandfathers on each side? Your dad\u2019s dad and your mom\u2019s dad? \tC:\tOkay I didn\u2019t have the opportunity of meeting my dad\u2019s dad, but my grandfather which was my mother\u2019s father I was raised up around him.",
           "prob": 0.9820808144286275,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "\tW:\tYour grandparent\u2019s parents on each side?",
+          "context": "\tC:\tSay that one more time. \tW:\tYour grandparent\u2019s parents on each side? C:\tNo I don\u2019t.",
           "prob": -0.9895869572646916,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "\tC:\tI got married 1992 my present wife.",
+          "context": "\tW:\tWould you like to elaborate and give us a number, or did you like to leave that a mystery for us? \tC:\tI got married 1992 my present wife. But I dated her for ten years.",
           "prob": 0.9048191495239735,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "Because we got married right out of high school.",
+          "context": "C: Because we got married right out of high school. \tW:\tWas there a large period of time between the end of your first marriage and the start of your second marriage, or did you get married again right away?",
           "prob": 0.9937212185468525,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "\tW:\tWas there a large period of time between the end of your first marriage and the start of your second marriage, or did you get married again right away?",
+          "context": "Because we got married right out of high school. \tW:\tWas there a large period of time between the end of your first marriage and the start of your second marriage, or did you get married again right away? \tC:\tA long long time.",
           "prob": 0.9915895755402744,
           "sentiment": "POSITIVE",
           "emotion": "surprise"
         },
         {
           "name": "C:\tMy mother was December the 7th, 1922.",
+          "context": "Do you recall your parents\u2019 birthdays? C:\tMy mother was December the 7th, 1922. \tW:\tAnd your dad?",
           "prob": 0.9743933575227857,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "Okay, are you married?",
+          "context": "W: Okay, are you married? C:",
           "prob": 0.9807285265997052,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "I am married.",
+          "context": "C: I am married. W:",
           "prob": 0.9927850752137601,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "And what is your wife\u2019s name?",
+          "context": "W: And what is your wife\u2019s name? C:",
           "prob": -0.9477023743093014,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "I have three kids\u2014one by first marriage; Cassandra Clayton and Cornelius",
+          "context": "C: I have three kids\u2014one by first marriage; Cassandra Clayton and Cornelius Frederick Clayton, which he is in the military; my daughter lives in Gainesville;",
           "prob": 0.9883603728376329,
           "sentiment": "POSITIVE",
           "emotion": "joy"
         },
         {
           "name": "and one offspring by ex-girlfriend that\u2019s thirty-three.",
+          "context": "Frederick Clayton, which he is in the military; my daughter lives in Gainesville; and one offspring by ex-girlfriend that\u2019s thirty-three. Her name is Detra Clayton.",
           "prob": 0.9789967425167561,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "First wife or second wife?",
+          "context": "C: First wife or second wife? W:",
           "prob": 0.9708731845021248,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "Well the first wife was in high school during the high school time.",
+          "context": "C: Well the first wife was in high school during the high school time. W:",
           "prob": 0.9624937996268272,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "We sit around, and we talk and we laugh, and I\u2019d take pictures, and I\u2019d video tape it.",
+          "context": "As for them I don\u2019t really care for the chicken and so we have a good time. We sit around, and we talk and we laugh, and I\u2019d take pictures, and I\u2019d video tape it. And they socialize.",
           "prob": 0.9976719754049554,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "Some sitting in the seat, and some are sitting around the floor.",
+          "context": "We all sitting in the classroom waiting on the instructor to come. Some sitting in the seat, and some are sitting around the floor. And all of a sudden this guy he gets up; long haired hippie, hippie like all",
           "prob": 0.9739870419725776,
           "sentiment": "POSITIVE",
           "emotion": "surprise"
         },
         {
           "name": "We could go to the kitchen inside and order our hamburger and take it home, or take it wherever and eat it.",
+          "context": "Also we had one restaurant we could not go into the front and sit down and eat. We could go to the kitchen inside and order our hamburger and take it home, or take it wherever and eat it. \tW:\tWhat was the name of the restaurant?",
           "prob": -0.99752668349538,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "As for them I don\u2019t really care for the chicken and so we have a good time.",
+          "context": "And we\u2019d go to her house, and we all brang her a dish, and I\u2019d take some good \u2018ol fried chicken. As for them I don\u2019t really care for the chicken and so we have a good time. We sit around, and we talk and we laugh, and I\u2019d take pictures, and I\u2019d video tape it.",
           "prob": 0.9977772837737575,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "I think you said",
+          "context": "You were going to elaborate. I think you said something about recess.",
           "prob": -0.9867306989617646,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "They like to do the bonfire and sit around.",
+          "context": "[Laughter] I have friends that invite me because\u2014well White friends that invite me. They like to do the bonfire and sit around. I don\u2019t do bonfire.",
           "prob": -0.9978220352204517,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "We have a good time.",
+          "context": "And they socialize. We have a good time. \tW:\tSome grown folks association?",
           "prob": 0.9977367019746453,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "clothes out and some hot chow.",
+          "context": "We didn\u2019t always get a change of clothes when they flew us clothes out and some hot chow. If your shirt was torn you got shirt, no pants because a lot of times they had a shortage of clothes.",
           "prob": -0.997300764429383,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "Frederick Clayton, which he is in the military; my daughter lives in Gainesville;",
+          "context": "I have three kids\u2014one by first marriage; Cassandra Clayton and Cornelius Frederick Clayton, which he is in the military; my daughter lives in Gainesville; and one offspring by ex-girlfriend that\u2019s thirty-three.",
           "prob": 0.9892036877572536,
           "sentiment": "POSITIVE",
           "emotion": "joy"
         },
         {
           "name": "My brother lives out of Atlanta, and my sister resides in Gainesville.",
+          "context": "C: My brother lives out of Atlanta, and my sister resides in Gainesville. W:",
           "prob": 0.9851634679362178,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "She lives in Orlando.",
+          "context": "Her name is Detra Clayton. She lives in Orlando. W:",
           "prob": 0.9845289592631161,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "Mr. Clayton, would you please give your full name?",
+          "context": "\tW:\tThank you very much. Mr. Clayton, would you please give your full name? C:\tCornelius Clayton Jr.",
           "prob": 0.9952469649724662,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "Evangeline Grimes and my brother\u2019s name is Ernest Vincent Clayton.",
+          "context": "C: Evangeline Grimes and my brother\u2019s name is Ernest Vincent Clayton. W:",
           "prob": 0.9718446983024478,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "Her name is Thelma Clayton.",
+          "context": "C: Her name is Thelma Clayton. W:",
           "prob": 0.9418109804391861,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "Her name is Detra Clayton.",
+          "context": "and one offspring by ex-girlfriend that\u2019s thirty-three. Her name is Detra Clayton. She lives in Orlando.",
           "prob": 0.9746471373364329,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
@@ -448,78 +515,91 @@
       "children": [
         {
           "name": "\tW:\tHow long did he operate his business?",
+          "context": "But he owned his own business and he did well. \tW:\tHow long did he operate his business? \tC:\tHe operated his business.",
           "prob": 0.9955776203423738,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "\tW:\tEverybody had problems with Lincoln.",
+          "context": "Lincoln High School here in Gainesville. \tW:\tEverybody had problems with Lincoln. Everybody tells me.",
           "prob": -0.9966036974219605,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "But he owned his own business and he did well.",
+          "context": "Except my grandfather, he was a well driller and he owned his own business, that\u2019s different from the stores. But he owned his own business and he did well. \tW:\tHow long did he operate his business?",
           "prob": 0.9926144322380424,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "\tC:\tHe operated his business.",
+          "context": "\tW:\tHow long did he operate his business? \tC:\tHe operated his business. He used to go back and forth upon the season in New York, and I guess he got tired of that, and he decided to drill wells.",
           "prob": -0.8941034153103828,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "\tC:\tLincoln had some big boys, too.",
+          "context": "Whether it\u2019s Jerkins\u2014 \tC:\tLincoln had some big boys, too. So when you got some big boys you\u2019re in and you don\u2019t equal up, you don\u2019t match up.",
           "prob": -0.9833902399986982,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "\tC:\tHis name was Jimmy Cooper.",
+          "context": "\tW:\tOkay what was his name? \tC:\tHis name was Jimmy Cooper. W:\tHave you all stayed in contact?",
           "prob": 0.9930964824743569,
           "sentiment": "POSITIVE",
           "emotion": "surprise"
         },
         {
           "name": "\tC:\tHis name was DC.",
+          "context": "\tW:\tAnd what was his name? \tC:\tHis name was DC. And I could vaguely see because when the round went off, you could see like a cloud of dust.",
           "prob": -0.9870585803873837,
           "sentiment": "NEGATIVE",
           "emotion": "neutral"
         },
         {
           "name": "My uncle, Ernest Magali Jr. had already learned the well drilling business, so he carried the business on.",
+          "context": "After my grandfather had a stroke, after he retired maybe like when he was sixty-three he had a stroke. My uncle, Ernest Magali Jr. had already learned the well drilling business, so he carried the business on. Also my",
           "prob": -0.8868231028318405,
           "sentiment": "NEGATIVE",
           "emotion": "sadness"
         },
         {
           "name": "And my uncle\u2014he learned those trades from him about mechanics when he was coming up as a teenager.",
+          "context": "grandfather was a great mechanic. And my uncle\u2014he learned those trades from him about mechanics when he was coming up as a teenager. Also my grandfather back in the [19]20s, we had a\u2014that was before my time\u2014a car dealership, which was selling model marlay malty, whatever.",
           "prob": 0.9954118605237454,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "Except my grandfather, he was a well driller and he owned his own business, that\u2019s different from the stores.",
+          "context": "\tC:\tWell basically all the businesses was owned by the Whites. Except my grandfather, he was a well driller and he owned his own business, that\u2019s different from the stores. But he owned his own business and he did well.",
           "prob": 0.9868248356506228,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "grandfather was a great mechanic.",
+          "context": "Also my grandfather was a great mechanic. And my uncle\u2014he learned those trades from him about mechanics when he was coming up as a teenager.",
           "prob": 0.9956509964540601,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "Also my grandfather back in the [19]20s, we had a\u2014that was before my time\u2014a car dealership, which was selling model marlay malty, whatever.",
+          "context": "And my uncle\u2014he learned those trades from him about mechanics when he was coming up as a teenager. Also my grandfather back in the [19]20s, we had a\u2014that was before my time\u2014a car dealership, which was selling model marlay malty, whatever. And my grandfather he was the mechanic.",
           "prob": 0.9924824249465019,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
         },
         {
           "name": "And my grandfather he was the mechanic.",
+          "context": "Also my grandfather back in the [19]20s, we had a\u2014that was before my time\u2014a car dealership, which was selling model marlay malty, whatever. And my grandfather he was the mechanic. As a matter of fact he was the only Black so that had to be in the [19]20s.",
           "prob": 0.9728651531040668,
           "sentiment": "POSITIVE",
           "emotion": "neutral"
